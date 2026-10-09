@@ -1,0 +1,9 @@
+bin/*
+!bin/Debug/
+bin/Debug/*
+!bin/Debug/a.wav
+obj/
+*.o
+*.depend
+*.layout
+*.exe
